@@ -2,7 +2,7 @@
 layout: default
 img: phones.png
 category: Services
-title: 特点:<br>简洁、绿色、轻巧、准确
+title: 简洁、绿色、轻巧
 description: |
 ---
   精准的定位、实时数据、简洁的风格、无广告干扰!
