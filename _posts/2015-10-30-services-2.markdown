@@ -1,6 +1,6 @@
 ---
 layout: default
-img: screenshot-2
+img: screenshot-2.png
 category: Services
 title: 简洁、绿色、轻巧
 description: |
