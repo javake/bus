@@ -1,6 +1,6 @@
 ---
 layout: default
-img: ipad.png
+img: screenshot-1.png
 category: Services
 title: 安全、准确
 description: |

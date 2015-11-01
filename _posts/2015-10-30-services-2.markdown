@@ -1,6 +1,6 @@
 ---
 layout: default
-img: phones.png
+img: screenshot-2
 category: Services
 title: 简洁、绿色、轻巧
 description: |
