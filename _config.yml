@@ -6,10 +6,7 @@ url: http://www.javake.cc/bus
 title: 公交来了
 email: javake@outlook.com
 author: javake
-description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description."
+description: > # bus coming , a app for you to know how time will waiting for your bus.
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -22,13 +19,10 @@ permalink: pretty
 # ----------------------- #
 #   3rd Party Settings    #
 # ----------------------- #
+apkname: buscoming-1.1.apk
 
 social:
-  - title: Github
-    url: https://github.com/javake
   - title: Blog
     url: http://www.javake.cc
   - title: Mail
     url: mailto:javake@outlook.com
-
-apkname:buscoming-1.1.apk
