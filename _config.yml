@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://www.javake.cc/Herr
+url: http://www.javake.cc/bus
 title: 公交来了
 email: javake@outlook.com
 author: javake
@@ -30,3 +30,5 @@ social:
     url: http://www.javake.cc
   - title: Mail
     url: mailto:javake@outlook.com
+
+apkname:buscoming-1.1.apk
