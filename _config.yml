@@ -19,7 +19,7 @@ permalink: pretty
 # ----------------------- #
 #   3rd Party Settings    #
 # ----------------------- #
-apkname: buscoming-1.1.apk
+apkurl: apk/buscoming-1.1.apk
 abouttitle: 公交实时查询软件
 aboutinfo: 提供南京市江宁区公交线路上公交车位置的实时定位查询。
 
