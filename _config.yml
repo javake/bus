@@ -20,6 +20,8 @@ permalink: pretty
 #   3rd Party Settings    #
 # ----------------------- #
 apkname: buscoming-1.1.apk
+abouttitle: {{ site.abouttitle }}
+aboutinfo: {{ site.aboutinfo }}
 
 social:
   - title: Blog
