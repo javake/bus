@@ -24,12 +24,12 @@ abouttitle: 公交实时查询软件
 aboutinfo: 提供南京市江宁区公交线路上公交车位置的实时定位查询。
 
 social:
-  - title: 作者博客
-    url: http://javake.cc
-    icon: fa-list-alt
+  - title: QQ群 335195602
+    url: http://shang.qq.com/wpa/qunwpa?idkey=578b7faab74c9c38842e1e868086702dce8961d2e5912c9ec944630fae085047
+    icon: fa-qq
   - title: 邮件
     url: mailto:javake@outlook.com
     icon: fa-envelope-o
-  - title: QQ群-335195602
-    url: http://shang.qq.com/wpa/qunwpa?idkey=578b7faab74c9c38842e1e868086702dce8961d2e5912c9ec944630fae085047
-    icon: fa-qq
+  - title: 作者博客
+    url: http://javake.cc
+    icon: fa-list-alt
