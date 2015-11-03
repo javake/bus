@@ -24,5 +24,7 @@ apkname: buscoming-1.1.apk
 social:
   - title: Blog
     url: http://javake.cc
-  - title: Mail
+    icon: fa-list-alt
+  - title: E-Mail
     url: mailto:javake@outlook.com
+    icon: fa-envelope-o
