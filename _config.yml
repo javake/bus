@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://www.javake.cc/bus
+url: http://javake.github.io/bus
 title: 公交来了
 email: javake@outlook.com
 author: javake
@@ -25,7 +25,7 @@ aboutinfo: 提供南京市江宁区公交线路上公交车位置的实时定位
 
 social:
   - title: 反馈/建议留言
-    url: http://www.javake.cc/2015/11/06/buscoming-discuss.html
+    url: http://javake.github.io/2015/11/06/buscoming-discuss.html
     icon: fa-commenting-o
   - title: QQ群 335195602
     url: http://shang.qq.com/wpa/qunwpa?idkey=578b7faab74c9c38842e1e868086702dce8961d2e5912c9ec944630fae085047
@@ -34,5 +34,5 @@ social:
     url: mailto:javake@outlook.com
     icon: fa-envelope-o
   - title: 作者博客
-    url: http://javake.cc
+    url: http://javake.github.io
     icon: fa-list-alt
